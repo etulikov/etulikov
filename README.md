@@ -52,8 +52,8 @@ I'm a full-stack web developer with 12+ years of experience. I got my start work
 
 ## Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://tradiry.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://tradiry.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/etulikov#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/etulikov#gh-dark-mode-only)
