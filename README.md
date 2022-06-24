@@ -1,4 +1,4 @@
-# Hello, I'm Evgeny - Full Stack JavaScript Developer 👋
+# Hello, I'm Evgeny - Full Stack JavaScript|PHP|PythonDeveloper 👋
 
 ## About me
 
