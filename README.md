@@ -15,21 +15,14 @@ I'm a full-stack web developer with 12+ years of experience. I got my start work
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=etulikov&hide=prs&&count_private=true&include_all_commits=true&show_icons=true&theme=vue)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=etulikov&layout=compact)" />
-</a>
-<br />
-<br />
+![etulikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=etulikov&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=etulikov)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etulikov&layout=compact)
 
-## Connect with me:
+[![etulikov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=etulikov)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me:
 
 [![website](./img/globe-light.svg)](https://tradiry.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://tradiry.com#gh-dark-mode-only)
