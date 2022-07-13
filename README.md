@@ -21,3 +21,19 @@
 <br />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=etulikov)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
+<br />
+
+
+## Connect with me:
+
+[![website](./img/globe-light.svg)](https://tradiry.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://tradiry.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/etulikov#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/etulikov#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/evgenytulikov/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/evgenytulikov/#gh-dark-mode-only)
