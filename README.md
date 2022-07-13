@@ -2,6 +2,8 @@
 
 ### About me
 
+I'm a full-stack web developer with 12+ years of experience. I got my start working in 2007. Since then, I have progressed to building and working with high-load, high-trafficked sites with data/code distributed over several data centers and have a huge experience with PHP, MySQL/PostgreSQL/MongoDB, Python (Django/Flask), and JavaScript/TypeScript (NodeJS, NestJS, ReactJS, NextJS, React Native, MeteorJS), HTML, CSS/SASS/SCSS/Less, server architecture, configuration, and maintenance, performance auditing, coding standards, version control, single-page applications, and more.
+
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="20" alt="php" /></code> 
