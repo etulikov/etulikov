@@ -31,7 +31,7 @@ I'm a full-stack web developer with 12+ years of experience. I got my start work
 
 [![etulikov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=etulikov)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
+### Contacts:
 
 [![website](./img/globe-light.svg)](https://tradiry.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://tradiry.com#gh-dark-mode-only)
