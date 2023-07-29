@@ -1,9 +1,5 @@
 ## Hello, I'm Evgeny - Full Stack JavaScript | PHP Developer 👋
 
-### About me
-
-I'm a full-stack web developer with 12+ years of experience. I got my start working in 2007. Since then, I have progressed to building and working with high-load, high-trafficked sites with data/code distributed over several data centers and have a huge experience with PHP, MySQL/PostgreSQL/MongoDB, Python (Django/Flask), and JavaScript/TypeScript (NodeJS, NestJS, ReactJS, NextJS, React Native, MeteorJS), HTML, CSS/SASS/SCSS/Less, server architecture, configuration, and maintenance, performance auditing, coding standards, version control, single-page applications, and more.
-
 🚀 Full-Stack Web Developer with 12+ Years of Experience 🚀
 
 👋 Welcome to my GitHub profile! I'm a passionate and results-driven full-stack web developer with over 12 years of hands-on experience in crafting high-performance, scalable, and user-centric web applications. My journey began in 2007, and since then, I've evolved into a versatile developer, continuously adapting to the ever-changing tech landscape.
