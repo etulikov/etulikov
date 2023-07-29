@@ -4,6 +4,45 @@
 
 I'm a full-stack web developer with 12+ years of experience. I got my start working in 2007. Since then, I have progressed to building and working with high-load, high-trafficked sites with data/code distributed over several data centers and have a huge experience with PHP, MySQL/PostgreSQL/MongoDB, Python (Django/Flask), and JavaScript/TypeScript (NodeJS, NestJS, ReactJS, NextJS, React Native, MeteorJS), HTML, CSS/SASS/SCSS/Less, server architecture, configuration, and maintenance, performance auditing, coding standards, version control, single-page applications, and more.
 
+🚀 Full-Stack Web Developer with 12+ Years of Experience 🚀
+
+👋 Welcome to my GitHub profile! I'm a passionate and results-driven full-stack web developer with over 12 years of hands-on experience in crafting high-performance, scalable, and user-centric web applications. My journey began in 2007, and since then, I've evolved into a versatile developer, continuously adapting to the ever-changing tech landscape.
+
+🛠️ Technologies & Skills 🛠️
+
+💻 Backend Wizardry: I possess deep expertise in PHP (Laravel Framework, Symfony), Python (Django/Rjango Rest Framework), JavaScript (NodeJS, NestJS, ReactJS, VueJS, React Native), and database technologies like MySQL, PostgreSQL, and MongoDB. My proficiency extends to building robust server architectures and conducting meticulous performance audits to ensure seamless application functionality.
+
+🎨 Frontend Maestro: I take immense pride in crafting captivating user interfaces using JavaScript and TypeScript. My mastery extends to popular frameworks such as ReactJS, NextJS, and React Native. With HTML and CSS (including SASS/SCSS/Less), I bring designs to life with pixel-perfect precision.
+
+🌐 Seamless Integrations: Working on distributed data and code across multiple data centers is second nature to me. I have a wealth of experience integrating various systems and APIs to create harmonious, interconnected applications.
+
+🔧 DevOps and Beyond: My skills encompass server configuration, maintenance, and administration, ensuring smooth deployments and robust server management. I'm also well-versed in version control using Git, enabling streamlined collaboration and efficient codebase management.
+
+⚙️ Leveraging Performance: I have a keen eye for optimization, consistently refining applications to deliver top-notch performance. From identifying bottlenecks to implementing cutting-edge techniques, I thrive on maximizing efficiency for delightful user experiences.
+
+💡 Embracing Innovation: I stay ahead of the curve by exploring emerging technologies and best practices. My adaptability allows me to experiment with new tools and frameworks, enabling me to recommend the most suitable solutions for projects.
+
+🌟 Web Enthusiast: I'm genuinely passionate about web development, always eager to tackle challenges head-on and elevate my skills to deliver excellence in every project I undertake.
+
+🏢 Previous Experience 🏢
+
+Throughout my career, I've had the privilege of working with dynamic teams on high-load, high-trafficked sites, leaving a lasting impact on notable brands. My contributions have led to enhanced user engagement and increased business growth for my clients.
+
+📈 Let's Connect! 📈
+
+If you're seeking a dedicated, innovative, and highly experienced full-stack web developer for your team, I'd love to chat! Let's collaborate to create the next generation of game-changing web applications.
+
+[![website](./img/globe-light.svg)](https://tradiry.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://tradiry.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/etulikov#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/etulikov#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/evgenytulikov/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/evgenytulikov/#gh-dark-mode-only)
+
+Thank you for visiting my profile, and I look forward to potentially working together on exciting projects!
+
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="20" alt="php" /></code> 
@@ -27,14 +66,3 @@ I'm a full-stack web developer with 12+ years of experience. I got my start work
 ![etulikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=etulikov&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
 
 [![etulikov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=etulikov)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contacts:
-
-[![website](./img/globe-light.svg)](https://tradiry.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://tradiry.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/etulikov#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/etulikov#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/evgenytulikov/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/evgenytulikov/#gh-dark-mode-only)
