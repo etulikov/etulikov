@@ -59,8 +59,9 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <br />
 <br />
 
-.. image:: https://wakatime.com/share/@etulikov/91ac63e7-c00a-497c-93f7-339018cc6283.png
-    :target: https://wakatime.com/
+<!--START_SECTION:waka-->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@etulikov/91ac63e7-c00a-497c-93f7-339018cc6283.png" /></a>
+<!--END_SECTION:waka-->
 
 ![etulikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=etulikov&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
 
