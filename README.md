@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Web Developer with 12+ Years of Experience 🚀
 
-👋 Welcome to my GitHub profile! I'm a passionate and results-driven full-stack web developer with over 12 years of hands-on experience in crafting high-performance, scalable, and user-centric web applications. My journey began in 2007, and since then, I've evolved into a versatile developer, continuously adapting to the ever-changing tech landscape.
+👋 I'm a full-stack web developer with 12+ years of experience building scalable, high-performance web applications. Since starting my career in 2007, I've honed my skills across the stack, staying adaptable in a fast-evolving industry. I take pride in writing clean, efficient code and delivering solutions that prioritize both functionality and user experience.
 
 📈 Let's Connect! 📈
 
