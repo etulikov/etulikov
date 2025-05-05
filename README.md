@@ -23,4 +23,10 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <br />
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP          1 hr 11 mins    █████████████████░░░░░░░░   68.01 %
+JavaScript   33 mins         ████████░░░░░░░░░░░░░░░░░   31.99 %
+```
+
 <!--END_SECTION:waka-->
