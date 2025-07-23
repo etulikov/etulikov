@@ -25,11 +25,11 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 42 mins   ███████████████░░░░░░░░░░   60.43 %
-Python           1 hr 57 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-PHP              1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-JavaScript       54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-JSON             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TypeScript       6 hrs 42 mins   █████████████░░░░░░░░░░░░   52.04 %
+JavaScript       2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Python           2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+PHP              1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+SCSS             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
