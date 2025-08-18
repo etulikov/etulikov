@@ -26,7 +26,7 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 
 ```txt
 TypeScript       8 hrs 9 mins    ██████████████████░░░░░░░   71.39 %
-JavaScript       1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+JavaScript       1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
 JSON             28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 SCSS             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 .env file        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
