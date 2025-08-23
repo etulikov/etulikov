@@ -25,11 +25,11 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       12 hrs 40 mins  █████████████████████▒░░░   85.00 %
-JSON             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-YAML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-.env file        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-JavaScript       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+TypeScript       12 hrs 13 mins  █████████████████████░░░░   84.57 %
+JSON             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+YAML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+.env file        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JavaScript       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
