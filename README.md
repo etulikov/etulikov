@@ -25,11 +25,11 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       11 hrs 23 mins  ██████████▓░░░░░░░░░░░░░░   42.90 %
-JavaScript       3 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-PHP              3 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-Blade Template   3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-SCSS             2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+TypeScript       13 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.62 %
+JavaScript       3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+PHP              2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Blade Template   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+CSS              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
