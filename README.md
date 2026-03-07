@@ -25,10 +25,10 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       23 hrs 13 mins        ██████████████▓░░░░░░░░░░   58.96 %
-Go               11 hrs 21 mins        ███████▒░░░░░░░░░░░░░░░░░   28.82 %
-Markdown         1 hr 40 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JSON             1 hr 36 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+TypeScript       23 hrs 17 mins        ██████████████▓░░░░░░░░░░   59.03 %
+Go               11 hrs 21 mins        ███████▒░░░░░░░░░░░░░░░░░   28.78 %
+Markdown         1 hr 40 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JSON             1 hr 36 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 GitIgnore file   18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 YAML             14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 Bash             13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
