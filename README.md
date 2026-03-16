@@ -25,21 +25,21 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       37 hrs 15 mins        █████████████████▒░░░░░░░   69.05 %
-Go               11 hrs 21 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
-Markdown         1 hr 41 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-JSON             1 hr 36 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+TypeScript       38 hrs 19 mins        █████████████████▓░░░░░░░   70.33 %
+Go               11 hrs 21 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+Markdown         1 hr 39 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+JSON             1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 Bash             27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-GitIgnore file   18 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-YAML             16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Text             11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+GitIgnore file   17 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+YAML             16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Text             11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 .env file        10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-EditorConfig     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-TSConfig         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-JavaScript       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-textmate         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Other            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+EditorConfig     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TSConfig         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+textmate         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP              3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
