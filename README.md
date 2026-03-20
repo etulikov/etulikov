@@ -25,21 +25,21 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       39 hrs 46 mins        ██████████████████░░░░░░░   72.12 %
-Go               11 hrs 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 %
-Markdown         1 hr 39 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-JSON             51 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Bash             21 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-GitIgnore file   17 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Text             11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-.env file        6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-EditorConfig     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-TSConfig         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-JavaScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-textmate         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-YAML             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript       36 hrs 5 mins         █████████████████▓░░░░░░░   70.24 %
+Go               11 hrs 21 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Markdown         1 hr 39 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JSON             48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Bash             21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+GitIgnore file   17 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Text             11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+.env file        6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+EditorConfig     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+textmate         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+YAML             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TSConfig         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
