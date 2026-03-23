@@ -25,13 +25,13 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       39 hrs 41 mins        ██████████████████▒░░░░░░   73.93 %
-Go               10 hrs 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-Markdown         57 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON             48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Bash             21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-GitIgnore file   15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript       41 hrs 9 mins         ███████████████████▒░░░░░   77.55 %
+Go               8 hrs 56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+Markdown         52 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JSON             48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Bash             21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+GitIgnore file   15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 .env file        6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 EditorConfig     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 JavaScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
