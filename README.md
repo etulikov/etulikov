@@ -25,21 +25,21 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       43 hrs                ████████████████████▒░░░░   81.90 %
-Go               6 hrs 56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Markdown         49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-JSON             42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Bash             21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-GitIgnore file   15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-.env file        3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Shell Script     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript       43 hrs 26 mins        █████████████████████▒░░░   84.75 %
+Go               5 hrs 30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+JSON             42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown         34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Bash             21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+GitIgnore file   15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+.env file        3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Shell Script     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 YAML             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Text             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 AiIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 HTML             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-go.mod           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 SCSS             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TSConfig         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
