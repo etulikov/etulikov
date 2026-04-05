@@ -25,16 +25,14 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       35 hrs 16 mins        ████████████████████████▒   97.51 %
-Bash             18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Blade Template   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Markdown         12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Shell Script     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-YAML             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-.env file        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-HTML             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript       31 hrs 51 mins        ████████████████████████▒   97.81 %
+Bash             14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Blade Template   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Markdown         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Shell Script     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+YAML             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+.env file        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 SCSS             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
