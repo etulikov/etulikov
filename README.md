@@ -25,8 +25,8 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         23 hrs 21 mins        ███████████████████████░░   91.67 %
-Python             1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+TypeScript         23 hrs 21 mins        ███████████████████████░░   91.66 %
+Python             1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 JSON               20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 Blade Template     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 Text               7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
