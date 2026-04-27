@@ -25,13 +25,13 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         23 hrs 7 mins         ███████████████████████░░   91.38 %
-Python             1 hr 8 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-JSON               20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Blade Template     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Text               7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-PHP                6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-CSS                3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript         22 hrs 26 mins        ██████████████████████▓░░   91.13 %
+Python             1 hr 8 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+JSON               20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Blade Template     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Text               7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+PHP                6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+CSS                3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 YAML               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Requirements.txt   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Rust               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
