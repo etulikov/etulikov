@@ -22,8 +22,6 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <br />
 <br />
 
-<img src="[https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg](https://wakatime.com/share/@etulikov/dbd87a4e-d8e1-473c-aace-6ac3b95535e3.svg)">
-
 <!--START_SECTION:waka-->
 
 ```txt
