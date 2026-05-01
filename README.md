@@ -22,6 +22,8 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <br />
 <br />
 
+<figure><embed src="https://wakatime.com/share/@etulikov/dbd87a4e-d8e1-473c-aace-6ac3b95535e3.svg"></embed></figure>
+
 <!--START_SECTION:waka-->
 
 ```txt
