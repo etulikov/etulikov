@@ -25,21 +25,21 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         34 hrs 32 mins        ████████████████████▒░░░░   81.19 %
-C#                 3 hrs 46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Python             2 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-JSON               57 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TypeScript         34 hrs 55 mins        ████████████████████▒░░░░   81.44 %
+C#                 3 hrs 46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Python             2 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+JSON               55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 Text               7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Bash               6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-PHP                6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-GitIgnore file     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-CSS                3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+PHP                6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+GitIgnore file     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+CSS                3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 JavaScript         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+.env file          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 YAML               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-.env file          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Requirements.txt   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Rust               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Blade Template     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
