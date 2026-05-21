@@ -25,16 +25,16 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         34 hrs 32 mins        ████████████████████▒░░░░   81.24 %
-C#                 3 hrs 47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Python             2 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-JSON               1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Bash               9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-GitIgnore file     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Text               4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-.env file          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Markdown           3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other              3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript         32 hrs 54 mins        ████████████████████░░░░░   80.52 %
+C#                 3 hrs 47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Python             2 hrs 32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+JSON               1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Bash               9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+GitIgnore file     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+.env file          4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Text               4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown           3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other              3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 JavaScript         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Requirements.txt   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 YAML               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
