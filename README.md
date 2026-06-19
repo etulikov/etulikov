@@ -25,21 +25,21 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         26 hrs 45 mins        ███████████████████░░░░░░   75.51 %
-JavaScript         1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-.env file          1 hr 15 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-PHP                1 hr 12 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JSON               59 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Python             52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Markdown           39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-YAML               23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Bash               23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Shell Script       22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-TSConfig           20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-GitIgnore file     20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Text               9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Requirements.txt   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-CSV                5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript         26 hrs 31 mins        ██████████████████▒░░░░░░   73.07 %
+Python             1 hr 39 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JavaScript         1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+.env file          1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+PHP                1 hr 12 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JSON               56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Markdown           39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+YAML               27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Bash               23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Shell Script       22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TSConfig           20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+GitIgnore file     20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Text               13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Requirements.txt   8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Other              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
