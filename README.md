@@ -25,21 +25,21 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         25 hrs 25 mins        ██████████████████▒░░░░░░   73.46 %
-Python             1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-.env file          1 hr 38 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-JavaScript         1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JSON               1 hr 3 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-PHP                55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Bash               29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Shell Script       22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Markdown           21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Text               19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-GitIgnore file     19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-YAML               16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+TypeScript         25 hrs 26 mins        ██████████████████░░░░░░░   72.01 %
+Python             2 hrs 18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+.env file          1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JavaScript         1 hr 11 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+JSON               1 hr 3 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+PHP                55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Bash               29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Shell Script       22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Markdown           21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Text               19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+GitIgnore file     19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+YAML               16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Requirements.txt   8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 Other              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-CSV                5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+textmate           5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
