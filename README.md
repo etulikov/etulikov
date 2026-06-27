@@ -25,21 +25,21 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         17 hrs 49 mins        ██████████████▓░░░░░░░░░░   59.19 %
-JavaScript         3 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Python             2 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-.env file          1 hr 49 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JSON               58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-PHP                55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Bash               34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Markdown           24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Shell Script       22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-GitIgnore file     19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Text               19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-YAML               16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Requirements.txt   8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Other              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-textmate           5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TypeScript         16 hrs 28 mins        ██████████████░░░░░░░░░░░   56.36 %
+JavaScript         3 hrs 53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Python             2 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+.env file          1 hr 51 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JSON               58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+PHP                55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Bash               34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Markdown           24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Shell Script       22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Text               20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+YAML               16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+GitIgnore file     13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Requirements.txt   8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+textmate           5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
