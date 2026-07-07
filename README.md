@@ -1,4 +1,4 @@
-## Hello, I'm Evgeny - Full Stack JavaScript | PHP Developer 👋
+## Hello, I'm Evgeny - Full Stack TypeScript | Python | PHP Developer 👋
 
 🚀 Full-Stack Web Developer with 12+ Years of Experience 🚀
 
