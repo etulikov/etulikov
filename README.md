@@ -26,16 +26,13 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 
 ```txt
 TypeScript          45 hrs 44 mins        ████████░░░░░░░░░░░░░░░░░   31.97 %
-Markdown            35 hrs 53 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
 PHP                 15 hrs 31 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
 JavaScript          9 hrs 39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
 Go                  7 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-JSON                5 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 Blade Template      3 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 SCSS                3 hrs 48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 CSS                 2 hrs 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 Other               2 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-YAML                1 hr 42 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 Bash                1 hr 29 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Python              1 hr 22 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 C++                 57 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
