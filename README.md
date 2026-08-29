@@ -25,18 +25,18 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          51 hrs 42 mins        ████████▒░░░░░░░░░░░░░░░░   33.56 %
-PHP                 15 hrs 57 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-JavaScript          8 hrs 56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Go                  7 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Blade Template      3 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-SCSS                3 hrs 48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-CSS                 2 hrs 52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Other               2 hrs 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Bash                1 hr 29 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-C++                 57 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-SQL                 51 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Makefile            45 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript          56 hrs 14 mins        ████████▓░░░░░░░░░░░░░░░░   35.15 %
+PHP                 15 hrs 57 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+JavaScript          8 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Go                  7 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Blade Template      3 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+CSS                 2 hrs 54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+SCSS                2 hrs 53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Other               2 hrs 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Bash                1 hr 29 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+C++                 57 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+SQL                 52 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Makefile            45 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
