@@ -25,18 +25,18 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       60 hrs 50 mins        █████████░░░░░░░░░░░░░░░░   35.58 %
-PHP              23 hrs 46 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-JavaScript       8 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Go               7 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Blade Template   3 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-CSS              2 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-SCSS             2 hrs 47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Other            2 hrs 17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Bash             1 hr 14 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-SQL              47 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Makefile         45 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Git Config       37 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript       61 hrs 19 mins        ████████▓░░░░░░░░░░░░░░░░   34.70 %
+PHP              24 hrs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+JavaScript       8 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Go               7 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Other            3 hrs 28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Blade Template   3 hrs 27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+CSS              2 hrs 57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+SCSS             2 hrs 47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Python           1 hr 53 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Bash             1 hr 16 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+SQL              47 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Makefile         45 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
