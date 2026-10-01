@@ -25,18 +25,19 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       36 hrs 46 mins        █████████▓░░░░░░░░░░░░░░░   38.63 %
-Python           8 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-PHP              6 hrs 41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Other            5 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Rust             5 hrs 43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-TSConfig         1 hr 42 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Bash             1 hr 33 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TypeScript       36 hrs 36 mins        █████████▓░░░░░░░░░░░░░░░   38.75 %
+Python           8 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+PHP              6 hrs 41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Other            5 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Rust             5 hrs 43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+TSConfig         1 hr 42 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Bash             1 hr 33 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 CSS              27 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-INI              24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+INI              24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 HTML             16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-.env file        12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+.env file        12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 JavaScript       10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+SQL              7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
