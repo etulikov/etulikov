@@ -25,12 +25,12 @@ Thank you for visiting my profile, and I look forward to potentially working tog
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       21 hrs 44 mins        ███████▒░░░░░░░░░░░░░░░░░   29.41 %
-Python           17 hrs 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-Rust             12 hrs 33 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-Other            3 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Bash             3 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Text             1 hr 31 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TypeScript       21 hrs 44 mins        ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+Python           17 hrs 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.84 %
+Rust             12 hrs 33 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+Other            3 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Bash             3 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Text             1 hr 31 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 PHP              24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 INI              24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 PowerShell       24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
